@@ -1,1 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap");
 
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Header Section Styles Start */
+.main-header {
+  background-image: url(../images/banner/banner1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header {
+  width: 75vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  padding: 216px 0;
+}
+.header-item-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  margin-bottom: 25px;
+}
+.header-item-description {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 35px;
+}
+.primary-btn {
+  background: #f15b22;
+  border-radius: 5px;
+  height: 64px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px 25px;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+/* Header Section Styles end */
