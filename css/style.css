@@ -140,7 +140,7 @@
 /* Call section start */
 .call {
   background-image: url(../images/watch.png),
-    linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
+    linear-gradient(90deg, #573dec 0%, rgba(241, 91, 34, 0) 100%);
   background-blend-mode: hard-light;
   background-repeat: no-repeat;
   background-size: cover;
@@ -163,3 +163,51 @@
   color: #f15b22;
 }
 /* Call section end */
+/* footer section start */
+.footer {
+  background: #151414;
+}
+.footer-items {
+  padding: 130px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-item01 img {
+  display: inline-block;
+  margin-right: 16px;
+  cursor: pointer;
+}
+.footer-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+  margin-bottom: 16px;
+}
+.footer-para {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+.footer-item02 input {
+  height: 64px;
+  padding: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  background-color: transparent;
+  width: 330px;
+  margin-bottom: 16px;
+}
+.item02-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+/* footer section  end */
