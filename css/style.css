@@ -156,8 +156,8 @@
   justify-content: center;
 }
 .time-item {
-  background-color: #f9cd80;
-  border: 1px solid #f15b22;
+  background-color: #f15b22;
+  /* border: 1px solid #f15b22; */
   width: 100px;
   height: 100px;
   color: #ffffff;
