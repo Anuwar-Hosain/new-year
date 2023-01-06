@@ -137,6 +137,40 @@
 }
 /* My Plans Section end */
 
+/* Event Plan Section start */
+.event-plan {
+  margin-bottom: 130px;
+}
+.event-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.time-items {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.time-item {
+  background-color: #f9cd80;
+  border: 1px solid #f15b22;
+  width: 100px;
+  height: 100px;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Work Sans";
+  padding: 20px 0;
+}
+.num {
+  font-size: 34px;
+  font-weight: 800;
+}
+/* Event Plan Section end */
+
 /* Call section start */
 .call {
   background-image: url(../images/watch.png),
