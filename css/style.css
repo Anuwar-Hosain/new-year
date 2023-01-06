@@ -136,3 +136,29 @@
   color: #737272;
 }
 /* My Plans Section end */
+
+/* Call section start */
+.call {
+  background-image: url(../images/watch.png);
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 130px;
+  border-radius: 8px;
+}
+.call-all {
+  padding: 60px 65px;
+}
+.call-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+.call-btn {
+  background-color: #ffffff;
+  color: #f15b22;
+}
+/* Call section end */
