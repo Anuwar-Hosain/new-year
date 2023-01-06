@@ -61,7 +61,7 @@
 }
 .failures-items {
   display: flex;
-  gap: 90px;
+  gap: 110px;
   align-items: center;
 }
 .failures-title {
@@ -98,3 +98,41 @@
   margin-bottom: 10px;
 }
 /* failures Section end */
+
+/* My Plans Section Start */
+.plans {
+  text-align: center;
+  margin-bottom: 130px;
+}
+.plan-item img {
+  margin-bottom: 20px;
+}
+.plan-items {
+  display: flex;
+  justify-content: space-between;
+}
+.plans-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 55px;
+}
+.item-title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  color: #151414;
+  margin-bottom: 16px;
+}
+.item-para {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+}
+/* My Plans Section end */
