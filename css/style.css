@@ -174,7 +174,7 @@
 /* Call section start */
 .call {
   background-image: url(../images/watch.png),
-    linear-gradient(90deg, #573dec 0%, rgba(241, 91, 34, 0) 100%);
+    linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
   background-blend-mode: hard-light;
   background-repeat: no-repeat;
   background-size: cover;
